@@ -1,0 +1,46 @@
+body {
+    margin:0;
+    padding:0;
+    font-family:helvetica, sans-serif;
+}
+
+a {
+    color:#00abff;
+    text-decoration:none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:helvetica, sans-serif;
+    font-weight:normal;
+}
+
+#content {
+    float:left;
+    width:60%;
+    padding:0 0 0 30px;
+}
+
+#sidebar {
+    float:right;
+    width:30%;
+    padding:10px;
+    background:#efefef;
+    height:100%;
+}
+
+p.date {
+    color:#ccc;
+    font-family:georgia, serif;
+    font-size:12px;
+    font-style:italic;
+}
+
+.left {
+    float:left;
+    margin-right:10px;
+}
+
+.right {
+    float:right;
+    margin-left:10px;
+}
