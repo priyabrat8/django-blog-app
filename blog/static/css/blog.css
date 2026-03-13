@@ -44,3 +44,23 @@ p.date {
     float:right;
     margin-left:10px;
 }
+
+label {
+    float: left;
+    clear: both;
+    color: #333;
+    margin-bottom: 4px;
+}
+
+input, textarea {
+    clear: both;
+    float: left;
+    margin: 0 0 10px;
+}
+
+input[type=submit] {
+    background: #00abff;
+    color: white;
+    padding: 10px 20px;
+    border: 0;
+}
